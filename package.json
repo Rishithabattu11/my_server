@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Rishithabattu11/my_server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
